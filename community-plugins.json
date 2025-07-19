@@ -17899,8 +17899,8 @@
     "repo": "mali-i/deepseek-ai-assistant"
   },
   {
-    "id": "excalink-plugin",
-    "name": "Excalink Plugin",
+    "id": "excalink",
+    "name": "Excalink",
     "author": "Aarambha",
     "description": "Enable smart auto-suggestion of frame names from .excalidraw.md files when typing [[filename# in the editor",
     "repo": "https://github.com/AarambhaAnta/Excalink"
